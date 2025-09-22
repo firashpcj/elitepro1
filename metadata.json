@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Elitepro",
+  "description": "Elitepro is a modern, client-side quote generation tool that helps you create, manage, and download professional quotations as PDFs. Features company profile management, dynamic line items, automatic calculations, and AI-powered content assistance using the Gemini API.",
+  "requestFramePermissions": []
+}
